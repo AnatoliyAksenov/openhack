@@ -55,15 +55,15 @@ Perform the following as a team:
 
 ### Read me first
 
-* ```scikit-learn``` algorithm cheatsheet Ref
-* ```jupyter``` Ref
-* Non-parametric and parametric algorithm differences Ref
+* ```scikit-learn``` algorithm cheatsheet [Ref](http://scikit-learn.org/stable/index.html)
+* ```jupyter``` [Ref](https://jupyter.readthedocs.io/en/latest/running.html)
+* Non-parametric and parametric algorithm differences [Ref](https://sebastianraschka.com/faq/docs/parametric_vs_nonparametric.html)
 
 ### ML and Scikit-Learn
 
-* ```scikit-learn``` Machine Learning guide with vocabulary Ref
-* ```scikit-learn``` Supervised Learning Ref
-* ```scikit-learn``` General User Guide Ref
+* ```scikit-learn``` Machine Learning guide with vocabulary [Ref](http://scikit-learn.org/stable/tutorial/basic/tutorial.html#introduction)
+* ```scikit-learn``` Supervised Learning [Ref](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
+* ```scikit-learn``` General User Guide [Ref](http://scikit-learn.org/stable/user_guide.html)
 
 ## Hints
 

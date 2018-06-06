@@ -19,7 +19,7 @@ Much time and thought generally goes into these crucial steps and the steps will
 ## Challenge
 Use the team setup and expertise to do the following tasks.
 
-The team will transform all the classes of the gear images into a particular format that can be used later on: 128x128x3 pixels (this means a 3-channel, 128x128 pixel square image - but please refrain from simply stretching the images).
+The team will transform **all the classes** of the gear images into a particular format that can be used later on: 128x128x3 pixels (this means a 3-channel, 128x128 pixel square image - but please refrain from simply stretching the images).
 
 Read more about the concepts and challenge in the References.
 
@@ -30,7 +30,7 @@ Perform the following:
 * Ensure for each image that the pixel range is from 0 to 255 (inclusive or [0, 255]) which is also called “contrast stretching”.
     * Note: only one method is required
 * Save the data to disk in a format the team deems appropriate for easily reading back in (see Hints).
-    * Take into account when saving the data that it will be used for Classification.
+    * Take into account when saving the data that it will be used for **Classification**.
     * Consider that numpy arrays are the common currency in Machine Learning frameworks
 Shown below are two ways of pixel-value stretching to be in the [0,255] range, or 0-255 inclusive (plotted with ```matplotlib```):
 
@@ -48,16 +48,16 @@ Normalize or equalize to ensure that the pixels are in a range from [0,255].
 
 ### Read me first
 
-* Is your data ready for data science? Doc
-* ```jupyter``` Ref
-* On using conda or pip to install Python packages Ref
+* Is your data ready for data science? [Doc](https://docs.microsoft.com/azure/machine-learning/studio/data-science-for-beginners-is-your-data-ready-for-data-science?wt.mc_id=OH-ML-ComputerVision)
+* ```jupyter``` [Ref](https://jupyter.readthedocs.io/en/latest/running.html)
+* On using ```conda``` or ```pip``` to install Python packages [Ref](https://conda.io/docs/user-guide/tasks/manage-pkgs.html)
 
 ### Useful Packages
 
-* ```matplotlib``` on dealing with images (I/O, plotting) Ref
-* ```numpy``` for image manipulation/processing/visualization Ref
-* ```PIL``` Image module for I/O and more Ref
-* ```PIL``` ImageOps module which has the ability to flip, rotate, equalize and perform other operations. Ref
+* ```matplotlib``` on dealing with images (I/O, plotting) [Ref](https://matplotlib.org/2.0.2/users/image_tutorial.html)
+* ```numpy``` for image manipulation/processing/visualization [Ref](http://www.scipy-lectures.org/advanced/image_processing/)
+* ```PIL``` Image module for I/O and more [Ref](http://pillow.readthedocs.io/en/4.2.x/reference/Image.html)
+* ```PIL``` ImageOps module which has the ability to flip, rotate, equalize and perform other operations. [Ref](http://pillow.readthedocs.io/en/4.2.x/reference/ImageOps.html)
 
 ### Concepts
 
